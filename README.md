@@ -20,5 +20,6 @@ Skills used: Arduino Programming, MATLAB, Raspberry Pi Programming in Python, Ci
 3) Circuit Diagrams : All circuit diagrams required in the project.
 4) Poster : For display during poster presentation 
 5) Block Diagram : Diagram explaining the funcitoning of the complete project.
-6) Final Report : Compilation of all files needed for final presentation.
+6) Codes : Codes involved in the project
+7) Final Report : Compilation of all files needed for final presentation.
 
