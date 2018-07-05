@@ -4,7 +4,9 @@
 #### Instrctor : Dr. Alexander Fell
 
 • This rover collects sensor data of vital environmental parameters like temperature, humidity, content of various gases, altitude, gps position etc. and stores them as well as allows us to analyse them by plotting them using MATLAB in form of histograms. It streams live video, provides real time coordinates and has a unique feature of complete web based control i.e. it is completely controlled by the user using the web capabilty(web-app). It is also equipped by a robo-arm that helps us pick and drop small objects.
+<br>
 • The sensor data is collected and analysed using Arduino and MATLAB, while the web-control of motors and robo-arm is done using the Raspberry-pi through a self made web-app.
+<br>
 • It can be used for industrial, agricultural and astronomical purposes.
 
 Skills used: Arduino Programming, MATLAB, Raspberry Pi Programming in Python, Circuit Design, Web Development
