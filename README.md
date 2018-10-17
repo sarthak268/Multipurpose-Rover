@@ -9,7 +9,7 @@
 <br>
 • It can be used for industrial, agricultural and astronomical purposes.
 
-Skills used: Arduino Programming, MATLAB, Raspberry Pi Programming in Python, Circuit Design, Web Development
+Skills used: Arduino Programming, MATLAB, Raspberry Pi Programming in Python, Circuit Designing, Web Development
 
 ## Block Diagram Explaining the functioning
 
